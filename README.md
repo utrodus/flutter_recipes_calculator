@@ -1,4 +1,3 @@
-# flutter_recipes_calculator
 
 A new Flutter project.
 
